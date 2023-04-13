@@ -1,6 +1,6 @@
 # IChat Project
 ### Summary
-This is a project for creating an intelligent chat rot, integration with wechat.
+This is a project for creating an intelligent chat bot, integration with wechat.
 ### Modules
 #### wechat-integration
 a module integration with wechat.
